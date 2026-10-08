@@ -3,7 +3,7 @@ NAMA: MEISYA AMELIA PUTRI
 KELAS: 5A
 
 Screenshoot Hasil:
-c:\Users\meisy\Downloads\WhatsApp Image 2026-10-08 at 19.18.19.jpeg
+
 
 Cara menjalankan proyek:
 - Buka Command Prompt/Terminal di vs code atau folder, lalu pastikan direktori berada di dalam folder diary-app dan jalankan printah: 
